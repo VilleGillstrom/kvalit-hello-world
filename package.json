@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/VilleGillstrom/kvalit-hello-world/issues"
   },
-  "homepage": "https://github.com/VilleGillstrom/kvalit-hello-world#readme"
+  "homepage": "https://github.com/VilleGillstrom/kvalit-hello-world#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
